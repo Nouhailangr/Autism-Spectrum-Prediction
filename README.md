@@ -10,6 +10,7 @@ Our primary goal is to leverage the power of machine learning algorithms to crea
 ## Data Collection
 The first step in our methodology involves the collection of our dataset. For this project, we used an open-source dataset from the UCI Machine Learning repository, a well-established resource in computer science research. The dataset, curated by Tabtah, a respected researcher in machine learning and data mining, includes demographic information and the Autism Quotient Test (AQ) with 10 questions. Merging this dataset with another provided by Tabtah (after some modifications to ensure the compatibility) creates a comprehensive dataset, enriching our data for building a robust Autism Spectrum Disorder predictive model. We chose this dataset due to its widespread use in ASD studies, with the primary measure being the AQ questionnaire from the Autism Research Center at Cambridge University. This questionnaire evaluates attention switching, attention to details, communication, and imagination, providing a score that indicates 'Autistic-like' behavior based on ten specified questions filled out by parents, family members or professionals.
 - Example of the Autism Quotient Test: 👇🏻
+  
 ![0*2VaUN7eNmKGjzAuo-2](https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/b85a5db5-4fa7-43da-8779-ab38ca8d2451)
 
 ## Data Preprocessing
@@ -42,5 +43,6 @@ Interpreting the chosen model is essential for understanding the features that c
 Furthermore, SHAP (Shapley Additive exPlanations) is utilized as a blended architecture for deciphering the predictions by ranking the most important features required for attaining an accurate decision. This approach enhances our understanding of the model's inner workings and provides a comprehensive view of feature importance in the predictive process.
 
 ## Deployment
-## Conclusion
+Once a satisfactory model is obtained, we have chosen to deploy it using Streamlit for practical use. This deployment is designed to take the form of a user-friendly web application, API, or any other accessible platform. By leveraging Streamlit, we ensure an intuitive and interactive experience, making our ASD prediction tool readily available for wider use.
+## 3. Conclusion
 
