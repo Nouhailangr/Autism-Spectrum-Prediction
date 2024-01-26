@@ -1,15 +1,15 @@
 # Autism-Spectrum-Prediction
 Welcome to the Autism Spectrum Disorder Prediction in Adults Project!
 
-## Project Overview 
+## 1. Project Overview 
 This project centers around a dataset comprising survey responses from individuals who have filled out an application form. The dataset includes labels indicating whether or not each person has received a diagnosis of autism.
 
 Our primary goal is to leverage the power of machine learning algorithms to create models capable of accurately predicting the likelihood of ASD based on the provided features. By doing so, we aim to contribute to a better understanding of ASD through quantitative analysis and predictive modeling.
 
-## Methodology
+## 2. Methodology
 ## Data Collection
 The first step in our methodology involves the collection of our dataset. For this project, we used an open-source dataset from the UCI Machine Learning repository, a well-established resource in computer science research. The dataset, curated by Tabtah, a respected researcher in machine learning and data mining, includes demographic information and the Autism Quotient Test (AQ) with 10 questions. Merging this dataset with another provided by Tabtah (after some modifications to ensure the compatibility) creates a comprehensive dataset, enriching our data for building a robust Autism Spectrum Disorder predictive model. We chose this dataset due to its widespread use in ASD studies, with the primary measure being the AQ questionnaire from the Autism Research Center at Cambridge University. This questionnaire evaluates attention switching, attention to details, communication, and imagination, providing a score that indicates 'Autistic-like' behavior based on ten specified questions filled out by parents, family members or professionals.
-Example of the Autism Quotient Test: 👇🏻
+- Example of the Autism Quotient Test: 👇🏻
 ![0*2VaUN7eNmKGjzAuo-2](https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/b85a5db5-4fa7-43da-8779-ab38ca8d2451)
 
 ## Data Preprocessing
@@ -29,7 +29,6 @@ Various machine learning algorithms are considered for predicting ASD. These inc
 - Logistic Regression
 - Multi-Layer Perceptron
 - XGBoost
-The choice of models is based on their suitability for binary classification tasks and their potential to handle the characteristics of our dataset.
 
 ## Model Training and Evaluation
 The selected models are trained on a portion of the dataset and evaluated using another portion to assess their performance. Metrics such as Accuracy, Precision, Recall, and F1-score are used to quantify the effectiveness of each model.
