@@ -48,10 +48,9 @@ Furthermore, SHAP (Shapley Additive exPlanations) is utilized as a blended archi
 ## Deployment
 Once a satisfactory model is obtained, we have chosen to deploy it using Streamlit for practical use. This deployment is designed to take the form of a user-friendly web application, API, or any other accessible platform. By leveraging Streamlit, we ensure an intuitive and interactive experience, making our ASD prediction tool readily available for wider use.
 
-![image](https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/1bb019c2-6b01-4085-90cd-204e30882f46)
+<img width="1440" alt="Screenshot 2024-01-28 at 20 13 55" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/867c5b02-bbdd-437d-b777-00694190e0b0">
 
-<img width="218" alt="image" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/f050c569-5d07-4e30-9094-860151723503">
+<img width="1440" alt="Screenshot 2024-01-28 at 20 14 06" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/aac7ecc4-7621-4428-aaa4-249d48f08f32">
 
 
-## 3. Conclusion
 
