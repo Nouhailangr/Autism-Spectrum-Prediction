@@ -1,12 +1,14 @@
 # Autism-Spectrum-Prediction
 Welcome to the Autism Spectrum Disorder Prediction in Adults Project!
 
-## 1. Project Overview 
+# Project Overview 
 This project centers around a dataset comprising survey responses from individuals who have filled out an application form. The dataset includes labels indicating whether or not each person has received a diagnosis of autism.
 
 Our primary goal is to leverage the power of machine learning algorithms to create models capable of accurately predicting the likelihood of ASD based on the provided features. By doing so, we aim to contribute to a better understanding of ASD through quantitative analysis and predictive modeling.
 
-## 2. Methodology
+# Methodology
+To achieve precise Autism Spectrum Disorder (ASD) prediction, we follow a step-by-step process. We start by collecting data, clean it up, explore patterns, choose and train models, fine-tune parameters, interpret results, and finally deploy a usable tool.
+
 <img width="752" alt="Screenshot 2024-01-28 at 20 00 30" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/a20135b4-d4b3-406c-b98f-207184232143">
 
 
@@ -49,6 +51,7 @@ Furthermore, SHAP (Shapley Additive exPlanations) is utilized as a blended archi
 Once a satisfactory model is obtained, we have chosen to deploy it using Streamlit for practical use. This deployment is designed to take the form of a user-friendly web application, API, or any other accessible platform. By leveraging Streamlit, we ensure an intuitive and interactive experience, making our ASD prediction tool readily available for wider use.
 
 <img width="1440" alt="Screenshot 2024-01-28 at 20 13 55" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/867c5b02-bbdd-437d-b777-00694190e0b0">
+
 
 <img width="1440" alt="Screenshot 2024-01-28 at 20 14 06" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/aac7ecc4-7621-4428-aaa4-249d48f08f32">
 
