@@ -8,7 +8,7 @@ Our primary goal is to leverage the power of machine learning algorithms to crea
 
 ## 2. Methodology
 
-![Uploading Screenshot 2024-01-28 at 19.59.09.png…]()
+![Uploading Screenshot 2024-01-28 at 20.00.30.png…]()
 
 ## Data Collection
 The first step in our methodology involves the collection of our dataset. For this project, we used an open-source dataset from the UCI Machine Learning repository, a well-established resource in computer science research. The dataset, curated by Tabtah, a respected researcher in machine learning and data mining, includes demographic information and the Autism Quotient Test (AQ) with 10 questions. Merging this dataset with another provided by Tabtah (after some modifications to ensure the compatibility) creates a comprehensive dataset, enriching our data for building a robust Autism Spectrum Disorder predictive model. We chose this dataset due to its widespread use in ASD studies, with the primary measure being the AQ questionnaire from the Autism Research Center at Cambridge University. This questionnaire evaluates attention switching, attention to details, communication, and imagination, providing a score that indicates 'Autistic-like' behavior based on ten specified questions filled out by parents, family members or professionals.
