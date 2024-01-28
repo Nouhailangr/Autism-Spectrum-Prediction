@@ -9,7 +9,8 @@ Our primary goal is to leverage the power of machine learning algorithms to crea
 # Methodology
 To achieve precise Autism Spectrum Disorder (ASD) prediction, we follow a step-by-step process. We start by collecting data, clean it up, explore patterns, choose and train models, fine-tune parameters, interpret results, and finally deploy a usable tool.
 
-<img width="752" alt="Screenshot 2024-01-28 at 20 00 30" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/a20135b4-d4b3-406c-b98f-207184232143">
+<img width="760" alt="Screenshot 2024-01-28 at 20 21 00" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/1637582f-b818-4309-92fb-eb8e45bc50f5">
+
 
 
 ## Data Collection
