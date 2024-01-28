@@ -7,7 +7,7 @@ This project centers around a dataset comprising survey responses from individua
 Our primary goal is to leverage the power of machine learning algorithms to create models capable of accurately predicting the likelihood of ASD based on the provided features. By doing so, we aim to contribute to a better understanding of ASD through quantitative analysis and predictive modeling.
 
 ## 2. Methodology
-![Uploading Screenshot 2024-01-28 at 20.00.30.png…]()
+<img width="752" alt="Screenshot 2024-01-28 at 20 00 30" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/a20135b4-d4b3-406c-b98f-207184232143">
 
 
 ## Data Collection
@@ -47,6 +47,9 @@ Furthermore, SHAP (Shapley Additive exPlanations) is utilized as a blended archi
 
 ## Deployment
 Once a satisfactory model is obtained, we have chosen to deploy it using Streamlit for practical use. This deployment is designed to take the form of a user-friendly web application, API, or any other accessible platform. By leveraging Streamlit, we ensure an intuitive and interactive experience, making our ASD prediction tool readily available for wider use.
+
+![image](https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/1bb019c2-6b01-4085-90cd-204e30882f46)
+<img width="218" alt="image" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/f050c569-5d07-4e30-9094-860151723503">
 
 
 ## 3. Conclusion
