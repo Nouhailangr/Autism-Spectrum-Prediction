@@ -56,5 +56,6 @@ Once a satisfactory model is obtained, we have chosen to deploy it using Streaml
 
 <img width="1440" alt="Screenshot 2024-01-28 at 20 14 06" src="https://github.com/Nouhailangr/Autism-Spectrum-Prediction/assets/127351602/aac7ecc4-7621-4428-aaa4-249d48f08f32">
 
+You can check the project report on the following link 
 
-
+https://www.researchgate.net/publication/377762482_Predicting_Autism_Spectrum_Disorder_Using_Machine_Learning_Classifiers?channel=doi&linkId=65b6b3251bed776ae30b67df&showFulltext=true
